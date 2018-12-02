@@ -22,6 +22,9 @@ gem 'bcrypt', '~> 3.1.7'
 # for serialization
 gem 'active_model_serializers', '~> 0.10.0'
 
+# pagination
+gem 'will_paginate', '~> 3.1.0'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
